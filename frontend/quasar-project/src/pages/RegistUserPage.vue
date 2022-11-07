@@ -29,7 +29,7 @@ export default defineComponent({
   data () {
     return {
       userID: '',
-      displayname: '',
+      displayName: '',
       password: ''
     }
   },
@@ -37,7 +37,7 @@ export default defineComponent({
     registUser () {
       const $q = useQuasar()
       api.post('/regist', {
-        displayname: this.displayname,
+        displayname: this.displayName,
         logindata: {
           userid: this.userID,
           password: this.password
