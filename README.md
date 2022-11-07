@@ -7,6 +7,8 @@ indexはユーザごとに作成し使用される
 
 ユーザ情報とFolder(ブックマークをファイル分けするもの)のデータはMysqlで管理
 
+## 動作した際の動画
+* [youtube](https://www.youtube.com/watch?v=izRX22CJ5s4)
 ## 動作環境及び使用技術
 
 ### バックエンド
