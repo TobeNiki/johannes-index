@@ -1,6 +1,0 @@
-DBMS : mysql
-USER : pendex
-PASS : dedicatus545
-PROTOCOL : tcp(db:3306)
-DBNAME : JohannesIndex
-PARAME : parseTime=true
