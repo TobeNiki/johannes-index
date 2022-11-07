@@ -1,0 +1,4 @@
+backend/database/*.yaml
+backend/database/config_test.go
+backend/logfiles/*
+/node_modules
